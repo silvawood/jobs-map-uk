@@ -1,0 +1,11 @@
+CACHE MANIFEST
+#21/07/18 14:20
+CACHE:
+index.htm
+jobs.js
+jobs.css
+//unpkg.com/leaflet@1.3.3/dist/leaflet.css
+//unpkg.com/leaflet@1.3.3/dist/leaflet.js
+//gdc.indeed.com/ads/apiresults.js
+NETWORK:
+*
